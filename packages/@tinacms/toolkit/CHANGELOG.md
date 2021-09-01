@@ -1,5 +1,16 @@
 # Change Log
 
+## 0.54.0
+
+### Minor Changes
+
+- a419056b6: Fixed component types for field plugins
+- 5df9fe543: Export Blocks, Group List, List, HTML and Markdown fields so that they can be used in field plugins.
+
+### Patch Changes
+
+- 9213d5608: Uses a better default dateFormat for the DateField
+
 ## 0.53.0
 
 ### Minor Changes

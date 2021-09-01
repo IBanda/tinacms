@@ -1,5 +1,18 @@
 # Change Log
 
+## 0.52.0
+
+### Minor Changes
+
+- 5df9fe543: Export Blocks, Group List, List, HTML and Markdown fields so that they can be used in field plugins.
+
+### Patch Changes
+
+- Updated dependencies [9213d5608]
+- Updated dependencies [a419056b6]
+- Updated dependencies [5df9fe543]
+  - @tinacms/toolkit@0.54.0
+
 ## 0.51.8
 
 ### Patch Changes

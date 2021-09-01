@@ -1,5 +1,15 @@
 # tina-cloud-starter
 
+## 0.1.14
+
+### Patch Changes
+
+- 9213d5608: Uses a better default dateFormat for the DateField
+- Updated dependencies [5df9fe543]
+  - react-tinacms-editor@0.52.0
+  - next-tinacms-cloudinary@3.2.6
+  - tinacms@0.55.3
+
 ## 0.1.13
 
 ### Patch Changes
